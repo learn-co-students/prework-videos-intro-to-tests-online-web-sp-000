@@ -1,4 +1,4 @@
-# Intro to Tests
+## Intro to Tests
 
 ## Learning Goals
 + Explain the importance of test automation in code
