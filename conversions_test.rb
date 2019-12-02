@@ -13,5 +13,5 @@ answer = ounces_to_grams(1)
 if answer == 28.3495
   puts "Passed!"
 else
-  puts "Test failed: got #{answer} instead"
+  puts "Test failed: got #{answer} instead "
 end
