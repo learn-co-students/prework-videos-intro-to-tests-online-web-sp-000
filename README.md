@@ -1,5 +1,5 @@
 # Intro to Tests
-
+yadda ydad
 ## Learning Goals
 + Explain the importance of test automation in code
 + Use tests to guide the flow of developing an application
