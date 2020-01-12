@@ -1,8 +1,6 @@
 
 RSpec.configure do |config|
   # Adds color configuration
-  config.failure_color = :magenta # or whateer color you like
-  config.success_color = :cyan
 
   config.expect_with :rspec do |expectations|
     expectations.include_chain_clauses_in_custom_matcher_descriptions = true
