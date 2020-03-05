@@ -1,8 +1,8 @@
 
 RSpec.configure do |config|
   # Adds color configuration
-  config.failure_color = :magenta # or whateer color you like
-  config.success_color = :cyan
+  config.failure_color = :cyan # or whateer color you like
+  config.success_color = :magenta
 
   config.expect_with :rspec do |expectations|
     expectations.include_chain_clauses_in_custom_matcher_descriptions = true
@@ -23,6 +23,7 @@ RSpec.configure do |config|
   # inherited by the metadata hash of host groups and examples, rather than
   # triggering implicit auto-inclusion in groups with matching metadata.
   config.shared_context_metadata_behavior = :apply_to_host_groups
+
 
 # The settings below are suggested to provide a good initial experience
 # with RSpec, but feel free to customize to your heart's content.
