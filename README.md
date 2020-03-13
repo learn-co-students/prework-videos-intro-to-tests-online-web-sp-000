@@ -280,7 +280,7 @@ def meal_choice(veg, starch, protein="meat")
   puts "What a nutritious meal!"
   puts
   meal
-end
+
 ```
 + Awesome, so this works and I feel pretty good about this. So that's it - we've used the specs as our guide and as you can see, they're not too bad. Definitely read them as you are working and use them to help guide you. So to recap what we've learned:
 
