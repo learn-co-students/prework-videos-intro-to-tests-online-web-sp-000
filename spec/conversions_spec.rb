@@ -8,3 +8,5 @@ describe "conversions" do
     end
   end
 end
+
+puts "Tests are running..."
