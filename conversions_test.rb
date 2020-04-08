@@ -1,6 +1,6 @@
 require_relative './conversions.rb'
 
-puts "Given 0, it should return 0.0"
+puts "Given 1, it should return 1.0"
 answer = ounces_to_grams(0)
 if answer == 0.0
   puts "Passed!"
