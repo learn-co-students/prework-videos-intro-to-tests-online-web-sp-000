@@ -51,17 +51,7 @@ end
 + We then setup a simple conditional - if the answer == 0.0, then we print that we passed the test. Otherwise, we print what we got instead.
 + Run this file now - and we can see that this worked. So we can add more tests now - I can add one that says given 1, we should get 28.3495
 ```ruby
-require_relative './conversions.rb'
-
-puts "Given 0, it should return 0.0"
-answer = ounces_to_grams(0)
-if answer == 0.0
-  puts "Passed!"
-else
-  puts "Test failed: got #{answer} instead"
-end
-
-puts "Given 1, it should return 28.3495"
+ven 1, it should return 28.3495"
 answer = ounces_to_grams(1)
 if answer == 28.3495
   puts "Passed!"
@@ -77,7 +67,17 @@ end
   end
   ```
 + Run our test suite - and look at that, all our tests still pass, so we know that this method does what it's supposed to do.
-+ So this is great, we just used our programming knowledge to write some tests.
++ So this is great, we just used our programming knowledge require_relative './conversions.rb'
+
+puts "Given 0, it should return 0.0"
+answer = ounces_to_grams(0)
+if answer == 0.0
+  puts "Passed!"
+else
+  puts "Test failed: got #{answer} instead"
+end
+
+puts "Gito write some tests.
 
 ### RSpec
 
