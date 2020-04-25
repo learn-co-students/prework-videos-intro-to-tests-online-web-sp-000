@@ -1,3 +1,4 @@
+puts "Tests are running..."
 require_relative '../conversions.rb'
 
 describe "conversions" do
