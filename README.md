@@ -4,7 +4,7 @@
 + Explain the importance of test automation in code
 + Use tests to guide the flow of developing an application
 + Explore the RSpec testing environment
-+ Use a pre-written test to determine what a method should do or return
++ Use a pre-written test to determine what a method should do or return.
 
 ## Lesson
 
