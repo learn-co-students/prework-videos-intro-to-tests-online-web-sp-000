@@ -1,5 +1,8 @@
 require_relative './conversions.rb'
 
+def ounces_to_grams(ounces)
+  ounces.to_f * 28.3495
+end
 puts "Given 0, it should return 0.0"
 answer = ounces_to_grams(0)
 if answer == 0.0
