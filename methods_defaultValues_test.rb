@@ -18,7 +18,7 @@ end
 
 puts "It should puts What a nutritious meal! and your order to the console"
 answer = meal_choice(veg,starch,protein)
-if answear = "What a nutritious meal! A plate of #{protein} with #{broccoli} and #{macaroni}."
+if answear = "What a nutritious meal! A plate of #{protein} with #{veg} and #{starch}."
   puts "Passed!"
 else
   puts "Test failed: got #{answer} instead"
