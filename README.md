@@ -289,6 +289,7 @@ end
 + We explored the RSpec testing environment, including some configuration options, and some of the most useful methods
 + And we used a pre-written test to determine what a method should do or return, and let that guide our development workflow
 + Thanks so much for watching - happy coding!
++ I read through this and didn't know what to change so I just wrote it out here.
 
 ## Resoruces
 + [Configure RSpec Colors](https://relishapp.com/rspec/rspec-core/v/2-14/docs/formatters/configurable-colors)
